@@ -1,0 +1,5 @@
+# php_tecentCloud_android_barcode
+
+这个是商品信息管理APP服务器访问数据库写的PHP文件
+
+基于Zbar的商品信息管理APP的项目地址https://github.com/zhaoxiaodong789/Opencv_android_demo
